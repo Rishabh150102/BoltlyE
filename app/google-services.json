@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669921531675",
+    "project_id": "boltlye-e2823",
+    "storage_bucket": "boltlye-e2823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669921531675:android:aca3a8b6b95f1faee825be",
+        "android_client_info": {
+          "package_name": "com.example.boltlye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669921531675-jc7tu021taevj6p7m45ibgtl1hv21bn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeqTMPFRUiXFJ3uBBau4BpXbizcJ95yx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669921531675-jc7tu021taevj6p7m45ibgtl1hv21bn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
